@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\USER\Downloads\KhoSach (2)\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+285674063.index
+1131849117.index
+2140480401.index
+2393857520.index
+992836666.index
+3917062414.index
